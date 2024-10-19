@@ -23,7 +23,7 @@ apksign {
 }
 
 android {
-    namespace = "me.weishu.kernelsu"
+    namespace = "com.vinence.uks"
 
     buildTypes {
         release {
